@@ -31,3 +31,9 @@ img {
     margin: 0 0 1rem;
     border-radius: 5px;
 }
+
+ul.social-links {
+    overflow: auto;
+    padding-left: 0;
+    display: inline-block;
+}
